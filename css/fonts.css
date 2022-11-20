@@ -1,0 +1,14 @@
+@font-face {
+    font-family: amaticbold;
+    src: url(../fonts/AmaticSC-Bold.ttf);
+}
+
+@font-face {
+    font-family: amaticregular;
+    src: url(../fonts/AmaticSC-Regular.ttf);
+}
+
+@font-face {
+    font-family: pacifico;
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
